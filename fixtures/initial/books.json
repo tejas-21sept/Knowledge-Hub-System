@@ -1,0 +1,44 @@
+[
+    {
+        "model": "management.books",
+        "pk": 1,
+        "fields": {
+            "title": "Django for Beginners",
+            "isbn": "9781234567890",
+            "publication_year": "2020",
+            "genre": "Programming",
+            "available_copies": 10,
+            "created_at": "2024-11-15T10:00:00Z",
+            "updated_at": "2024-11-15T10:00:00Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "management.books",
+        "pk": 2,
+        "fields": {
+            "title": "Python Crash Course",
+            "isbn": "9780987654321",
+            "publication_year": "2022",
+            "genre": "Programming",
+            "available_copies": 5,
+            "created_at": "2024-11-15T10:00:00Z",
+            "updated_at": "2024-11-15T10:00:00Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "model": "management.books",
+        "pk": 3,
+        "fields": {
+            "title": "The Pragmatic Programmer",
+            "isbn": "9781234561234",
+            "publication_year": "2019",
+            "genre": "Software Development",
+            "available_copies": 8,
+            "created_at": "2024-11-15T10:00:00Z",
+            "updated_at": "2024-11-15T10:00:00Z",
+            "is_deleted": false
+        }
+    }
+]

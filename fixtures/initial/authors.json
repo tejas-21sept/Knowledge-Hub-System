@@ -1,0 +1,22 @@
+[
+    {
+        "model": "management.author",
+        "pk": 1,
+        "fields": {
+            "full_name": "John Doe",
+            "dob": "1970-01-15T00:00:00Z",
+            "nationality": "American",
+            "books": [1]
+        }
+    },
+    {
+        "model": "management.author",
+        "pk": 2,
+        "fields": {
+            "full_name": "Jane Smith",
+            "dob": "1980-05-25T00:00:00Z",
+            "nationality": "British",
+            "books": [2]
+        }
+    }
+]

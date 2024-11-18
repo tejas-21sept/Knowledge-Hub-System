@@ -1,0 +1,12 @@
+[
+    {
+        "model": "management.borrower",
+        "pk": 1,
+        "fields": {
+            "user": 2,
+            "membership_type": 1,
+            "book": 1,
+            "borrowed_books_count": 1
+        }
+    }
+]

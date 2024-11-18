@@ -1,0 +1,18 @@
+[
+    {
+        "model": "management.membershiptype",
+        "pk": 1,
+        "fields": {
+            "title": "Standard Membership",
+            "price": 50.0
+        }
+    },
+    {
+        "model": "management.membershiptype",
+        "pk": 2,
+        "fields": {
+            "title": "Premium Membership",
+            "price": 100.0
+        }
+    }
+]

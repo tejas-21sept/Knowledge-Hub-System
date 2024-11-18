@@ -1,0 +1,38 @@
+[
+    {
+        "model": "management.user",
+        "pk": 1,
+        "fields": {
+            "email": "admin@library.com",
+            "name": "Library Admin",
+            "phone_number": "+1234567890",
+            "role": "admin",
+            "is_active": true,
+            "is_staff": true
+        }
+    },
+    {
+        "model": "management.user",
+        "pk": 2,
+        "fields": {
+            "email": "staff@library.com",
+            "name": "Library Staff",
+            "phone_number": "+0987654321",
+            "role": "staff",
+            "is_active": true,
+            "is_staff": true
+        }
+    },
+    {
+        "model": "management.user",
+        "pk": 3,
+        "fields": {
+            "email": "user@library.com",
+            "name": "Library User",
+            "phone_number": "+1122334455",
+            "role": "user",
+            "is_active": true,
+            "is_staff": false
+        }
+    }
+]
